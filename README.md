@@ -22,10 +22,3 @@ Week 4: Paths in graph 2
 Week 5: Spanning Trees
 1_Building roads to connect cities (connecting points)---------------------
 2_Clustesring
-
-Week 6: Advanced Shortest Paths
-1_ Friend Suggestion --------------------
-2_ Distance using coordinates ----------------
-3_ Compute distance with pre processing ------------
-4_ Compute distance with pre processing on larger road networks ------------
-5_ Travelling Salesman problem
